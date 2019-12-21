@@ -1,8 +1,6 @@
-# UFO sighthings data presented and filtered with JavaScript
+# UFO sighthings data dynamically presented and filtered with JavaScript
 
-### In this module, we will create a table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language.
-We will create filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing.
-We will customize our webpage using Bootstrap, and equip our table with several fully functional filters that will allow users to interact with our visualizations.
+### In this module, we will create a table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language. We will create filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing. We will customize our webpage using Bootstrap, and equip our table with several fully functional filters that will allow users to interact with our visualizations.
 
 
 ## The technologies used in the module are: Javascript, HTML (Bootstrap), CSS
